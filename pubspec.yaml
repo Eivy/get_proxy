@@ -1,6 +1,6 @@
 name: get_proxy
-description: A new flutter plugin project.
-version: 0.0.1
+description: Flutter plugin for get proxy setting from system environment
+version: 0.0.2
 author:
 homepage:
 
